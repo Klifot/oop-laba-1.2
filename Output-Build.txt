@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: oop laba 1.2, Configuration: Debug x64 ------
+1>Source.cpp
+1>oop laba 1.2.vcxproj -> C:\Users\Asmareal\source\repos\oop laba 1.2\x64\Debug\oop laba 1.2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:01,066 ==========
